@@ -1,0 +1,1 @@
+This is the classic snake game, you must move around with the arrow keys and collect food as you grow larger
